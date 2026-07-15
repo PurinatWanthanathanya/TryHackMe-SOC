@@ -21,7 +21,7 @@ To understand the core responsibilities of a Junior Security Analyst, explore th
 * Successfully triaged a critical SSH login alert, verified the malicious nature of the IP using threat intelligence, and mitigated the immediate risk by enforcing a firewall block rule.
 
 > 📸 SIEM DashBoard<br><img width="614" height="566" alt="image" src="https://github.com/user-attachments/assets/f2370755-ecbd-41c2-b903-3484bd709952" />
-> 📸 Siem DashBoard<br><img width="578" height="239" alt="image" src="https://github.com/user-attachments/assets/0e3d548e-f3cd-4a8f-b261-2e57e3d565a5" />
+<br><img width="578" height="239" alt="image" src="https://github.com/user-attachments/assets/0e3d548e-f3cd-4a8f-b261-2e57e3d565a5" />
 
 > 📸 Check IP Address<br><img width="583" height="533" alt="image" src="https://github.com/user-attachments/assets/8ab712e9-80b0-47e9-8582-8fbfe9295f0c" />
 
