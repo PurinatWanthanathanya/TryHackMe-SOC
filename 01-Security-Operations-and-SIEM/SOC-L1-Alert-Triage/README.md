@@ -3,21 +3,21 @@
 **Role:** Junior Security Analyst
 
 ## 🎯 Objective
-To apply a systematic triage workflow for evaluating security alerts, determining their validity based on business context, and correctly identifying True Positives and False Positives.[cite: 1]
+To apply a systematic triage workflow for evaluating security alerts, determining their validity based on business context, and correctly identifying True Positives and False Positives.
 
 ## 🚀 Execution Steps
 1. **Alert Prioritization & Assignment:** 
-   * Selected unassigned alerts by prioritizing them from highest severity to lowest (Critical -> Low), and then chronologically from oldest to newest.[cite: 1]
-   * Assigned the selected cases to myself and changed the status to "In Progress" to prevent duplicated effort among team members.[cite: 1]
+   * Selected unassigned alerts by prioritizing them from highest severity to lowest (Critical -> Low), and then chronologically from oldest to newest.
+   * Assigned the selected cases to myself and changed the status to "In Progress" to prevent duplicated effort among team members.
 2. **Contextual Investigation:** 
-   * Investigated the technical details of the alerts while factoring in the surrounding business context, such as user identity, IPs, and typical behavior.[cite: 1]
-   * Evaluated the legitimacy of user activities, such as verifying if code downloads from GitHub were normal because the user belonged to a developer network (VPN/DEVELOPERS), or if an overseas VPN login (from Japan) was actually the CFO on a confirmed travel itinerary.[cite: 1]
+   * Investigated the technical details of the alerts while factoring in the surrounding business context, such as user identity, IPs, and typical behavior.
+   * Evaluated the legitimacy of user activities, such as verifying if code downloads from GitHub were normal because the user belonged to a developer network (VPN/DEVELOPERS), or if an overseas VPN login (from Japan) was actually the CFO on a confirmed travel itinerary.
 3. **Decision & Closure (Verdict):** 
-   * Reached a verdict on whether each alert was a real attack (True Positive) or a misclassification (False Positive).[cite: 1]
-   * Closed the alerts by writing clear explanatory comments for the decision and updating the status to "Closed", while ensuring that highly severe cases were escalated to Level 2 (L2) analysts.[cite: 1]
+   * Reached a verdict on whether each alert was a real attack (True Positive) or a misclassification (False Positive).
+   * Closed the alerts by writing clear explanatory comments for the decision and updating the status to "Closed", while ensuring that highly severe cases were escalated to Level 2 (L2) analysts.
 
 ## 📊 Results & Evidence
-* Successfully processed and closed multiple alerts by analyzing user contexts, correctly distinguishing between normal business activities and actual cyber threats like RDP brute-force attacks and phishing attempts.[cite: 1]
+* Successfully processed and closed multiple alerts by analyzing user contexts, correctly distinguishing between normal business activities and actual cyber threats like RDP brute-force attacks and phishing attempts.
 
 > 📸 WorkFlow Analysis<img width="1010" height="347" alt="image" src="https://github.com/user-attachments/assets/d692d345-9167-46b2-9e75-f791f5d3fef8" />
 
@@ -36,6 +36,6 @@ To apply a systematic triage workflow for evaluating security alerts, determinin
 > 📸 Analyzed by the lab<img width="1206" height="404" alt="image" src="https://github.com/user-attachments/assets/f6d9ffe7-d3b1-4917-ba5a-5a2eaac68c41" />
 
 ## 🧠 Key Takeaways
-* **Business Context vs. Technical Rules:** Learned that automated rules trigger based on technical conditions, but human analysts are needed to understand the business context.[cite: 1] For example, a massive 5.8 GB data transfer flagged as "Data Exfiltration" was actually just a legitimate video meeting when the destination was identified as `*.zoom.us` (False Positive).[cite: 1]
-* **Recognizing True Positives:** Developed an eye for spotting genuine threat patterns.[cite: 1] This included identifying phishing techniques that use double-extensions (e.g., `cats2025.mp4.exe`) and recognizing brute-force attacks on RDP ports featuring an excessively high number of failed logins (e.g., 1,620 attempts).[cite: 1]
-* **Structured Triage Workflow:** Mastered a disciplined operational flow: Assign, Investigate, Decide, and Close/Escalate, which is crucial for efficient and organized SOC environments.[cite: 1]
+* **Business Context vs. Technical Rules:** Learned that automated rules trigger based on technical conditions, but human analysts are needed to understand the business context. For example, a massive 5.8 GB data transfer flagged as "Data Exfiltration" was actually just a legitimate video meeting when the destination was identified as `*.zoom.us` (False Positive).
+* **Recognizing True Positives:** Developed an eye for spotting genuine threat patterns. This included identifying phishing techniques that use double-extensions (e.g., `cats2025.mp4.exe`) and recognizing brute-force attacks on RDP ports featuring an excessively high number of failed logins (e.g., 1,620 attempts).
+* **Structured Triage Workflow:** Mastered a disciplined operational flow: Assign, Investigate, Decide, and Close/Escalate, which is crucial for efficient and organized SOC environments.
