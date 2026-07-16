@@ -23,7 +23,7 @@ To apply a systematic triage workflow for evaluating security alerts, determinin
 
 > 📸 Alert Analysis<img width="1237" height="436" alt="image" src="https://github.com/user-attachments/assets/ea85410a-df18-474a-81e3-81f4ee6f37ee" />
 
-> 📝 **Self-Improvement Note:** 
+📝 **Self-Improvement Note:** 
 > I still need to refine my case closure comments to ensure they follow a proper, professional structure. Moving forward, my comments must clearly state: (1) What happened, (2) How it was analyzed, and (3) How it was handled.
 
 > 📸 New Comment:True Positive. Detected a suspicious file with a double extension (e.g., .mp4.exe) indicating malware. The file has been blocked, and the alert is escalated to the L2 team for further investigation. <img width="1224" height="489" alt="image" src="https://github.com/user-attachments/assets/20c86332-829e-49e2-943e-12a9ea9aa0e6" />
