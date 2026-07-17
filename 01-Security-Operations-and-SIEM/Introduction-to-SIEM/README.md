@@ -28,20 +28,20 @@ Detection rules act as logical expressions based on adversary behaviors. Example
 
 ### 1. Alert Triage
 *   Reviewed the SIEM dashboard and noticed a triggered alert regarding a suspicious process execution.
-> 📸 Suspicious process execution Alerted<img width="550" height="499" alt="image" src="https://github.com/user-attachments/assets/80ab419d-b136-4aa3-b360-fa196d7af964" />
+> 📸 Suspicious process execution Alerted<br><img width="550" height="499" alt="image" src="https://github.com/user-attachments/assets/80ab419d-b136-4aa3-b360-fa196d7af964" />
 
 ### 2. Investigation & Log Correlation
 *   Drilled down into the specific event log to gather context.
 *   Identified that a malicious cryptocurrency mining process named `cudominer.exe` was executed.
 *   Traced the execution back to a specific user account (`Chris`) operating on the hostname `HR_02`.
 *   Determined that the log source originated from a Windows endpoint.
-> 📸 <img width="555" height="398" alt="image" src="https://github.com/user-attachments/assets/6bb1a6d3-1afd-49ca-81b0-9ea9cadf5ab1" />
+> 📸 <br><img width="555" height="398" alt="image" src="https://github.com/user-attachments/assets/6bb1a6d3-1afd-49ca-81b0-9ea9cadf5ab1" />
 
 ### 3. Conclusion & Remediation
 *   Analyzed the behavior and verified that it matched a crypto-mining infection. 
 *   Declared the alert as a **True Positive**.
 *   Took immediate remediation action by isolating the infected host (`HR_02`) from the network to prevent further spread, pending deeper forensic analysis.
-> 📸 Analyze and choose verdict <img width="560" height="265" alt="image" src="https://github.com/user-attachments/assets/ed103c70-4ef5-422c-bd03-dcfe5131929b" />
+> 📸 Analyze and choose verdict<br><img width="560" height="265" alt="image" src="https://github.com/user-attachments/assets/ed103c70-4ef5-422c-bd03-dcfe5131929b" />
 
 ## 💡 Note for Future Improvement
 *   **Tuning False Positives:** I learned that if an alert turns out to be a False Positive, the correct procedure is to tune the detection rules. This reduces alert fatigue and prevents the SIEM from constantly triggering alerts on normal, legitimate business activities.
