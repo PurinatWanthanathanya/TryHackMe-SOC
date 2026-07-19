@@ -13,7 +13,7 @@ To understand the fundamentals of Windows Event Logs, differentiate critical Eve
    * Analyzed Logon Events by filtering for Event ID 4625 (Failed Logon) to identify potential RDP brute-force attacks, followed by Event ID 4624 (Successful Logon, Type 10) to confirm unauthorized access.
    * Investigated user account modifications using the 47xx series (e.g., 4720 for account creation, 4732 for adding a user to the Administrators group) to track privilege escalation and persistence.
 3. **Process & Command Execution Tracking:** 
-   * Cross-referenced standard logs with Sysmon telemetry (Event ID 1 for Process Creation, Event ID 3 for Network Connections) to track the attacker's footprint and correlate activities using `ProcessId`.
+   * Cross-referenced standard logs with Sysmon telemetry to track the attacker's footprint and correlate activities using `ProcessId`.
    * Monitored Event ID 1 (Process Creation) and Event ID 3 (Network Connection) for initial malicious execution and external communications.
    * Investigated Event ID 11 (File Creation) and Event ID 13 (Registry Set) to identify newly dropped payloads and unauthorized registry modifications.
    * Analyzed Event ID 22 (DNS Query) to detect attempts to resolve malicious domains or URLs.
