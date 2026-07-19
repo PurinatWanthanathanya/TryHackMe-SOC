@@ -14,6 +14,9 @@ To understand the fundamentals of Windows Event Logs, differentiate critical Eve
    * Investigated user account modifications using the 47xx series (e.g., 4720 for account creation, 4732 for adding a user to the Administrators group) to track privilege escalation and persistence.
 3. **Process & Command Execution Tracking:** 
    * Cross-referenced standard logs with Sysmon telemetry (Event ID 1 for Process Creation, Event ID 3 for Network Connections) to track the attacker's footprint and correlate activities using `ProcessId`.
+   * Monitored Event ID 1 (Process Creation) and Event ID 3 (Network Connection) for initial malicious execution and external communications.
+   * Investigated Event ID 11 (File Creation) and Event ID 13 (Registry Set) to identify newly dropped payloads and unauthorized registry modifications.
+   * Analyzed Event ID 22 (DNS Query) to detect attempts to resolve malicious domains or URLs.
    * Inspected the hidden PowerShell History File (`ConsoleHost_history.txt`) to uncover specific malicious commands and scripts executed by the attacker that might have bypassed standard logging.
 
 ## 📊 Results & Evidence
@@ -30,5 +33,3 @@ To understand the fundamentals of Windows Event Logs, differentiate critical Eve
 * **Tracking Malicious Account Activity:** Realized that attackers frequently manipulate accounts to maintain access. Monitoring the 47xx event series (e.g., 4720, 4722, 4732) is essential for spotting unauthorized privilege escalation.
 * **Sysmon vs. Standard Logging:** Discovered that Sysmon provides significantly deeper forensic telemetry (such as parent-child process relationships, file hashes, and DNS queries) compared to default Windows logging.
 * **Uncovering Hidden Commands:** Learned that standard Sysmon logging might miss specific sub-commands in PowerShell, making the `ConsoleHost_history.txt` file a vital artifact for revealing the exact commands used in "fileless" attacks.
-
-<img width="678" height="460" alt="image" src="https://github.com/user-attachments/assets/7f7fed70-c386-4b74-88cf-7253c40b8b94" />
