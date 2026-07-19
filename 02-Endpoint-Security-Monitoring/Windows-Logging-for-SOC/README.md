@@ -22,9 +22,9 @@ To understand the fundamentals of Windows Event Logs, differentiate critical Eve
 ## 📊 Results & Evidence
 * Successfully mapped a complete attack chain on a Windows endpoint, from the initial brute-force entry and privilege escalation to the execution of malicious scripts via PowerShell.
 
-> 📸 EventViewer<br><img width="674" height="583" alt="image" src="https://github.com/user-attachments/assets/b54fac18-df08-4332-8510-03ac23721310" />
+> 📸 EventViewer<br><img width="674" height="491" alt="image" src="https://github.com/user-attachments/assets/249130e8-f31d-42c4-b030-cd4b37ce3213" />
 
-> 📸 Sysmon<br><img width="671" height="545" alt="image" src="https://github.com/user-attachments/assets/592077e5-60ec-49a4-b548-4d80403934db" />
+> 📸 Sysmon<br><img width="671" height="530" alt="image" src="https://github.com/user-attachments/assets/592077e5-60ec-49a4-b548-4d80403934db" />
 
 > 📸 PowerShell History File<br><img width="671" height="545" alt="image" src="https://github.com/user-attachments/assets/592077e5-60ec-49a4-b548-4d80403934db" />
 
