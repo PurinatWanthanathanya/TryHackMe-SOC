@@ -26,7 +26,7 @@ To understand the fundamentals of Windows Event Logs, differentiate critical Eve
 
 > 📸 Sysmon<br><img width="674" height="491" alt="image" src="https://github.com/user-attachments/assets/249130e8-f31d-42c4-b030-cd4b37ce3213" />
 
-> 📸 PowerShell History File<br><img width="671" height="545" alt="image" src="https://github.com/user-attachments/assets/592077e5-60ec-49a4-b548-4d80403934db" />
+> 📸 PowerShell History File<br><img width="678" height="460" alt="image" src="https://github.com/user-attachments/assets/7f7fed70-c386-4b74-88cf-7253c40b8b94" />
 
 ## 🧠 Key Takeaways
 * **Authentication & Logon IDs:** Recognized the critical importance of monitoring Event IDs 4624 and 4625, and learned how to use unique Logon IDs to correlate all activities within a specific compromised session.
