@@ -19,7 +19,7 @@ To apply the core SOC analyst workflow of "Verify, Enrich, and Decide" by utiliz
 ## 📊 Results & Evidence
 * Successfully enriched suspicious IP addresses and domain names, uncovering malicious typosquatting infrastructure and identifying self-signed TLS certificates associated with attack servers.
 
-> 📸 <img width="401" height="468" alt="image" src="https://github.com/user-attachments/assets/2b9e301c-997b-46b7-b51c-24f5056da3b8" />
+> 📸 <br><img width="401" height="468" alt="image" src="https://github.com/user-attachments/assets/2b9e301c-997b-46b7-b51c-24f5056da3b8" />
 
 > 📸 <img width="2339" height="1653" alt="tls" src="https://github.com/user-attachments/assets/983ec835-ad38-4701-a761-31b9dbf93e70" />
 
