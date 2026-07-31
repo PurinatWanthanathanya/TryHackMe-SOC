@@ -29,6 +29,11 @@ To analyze human vulnerabilities within enterprise security, identify common and
 
 > 📸 <br><img width="836" height="747" alt="image" src="https://github.com/user-attachments/assets/cd20e50f-29c9-45db-abb6-d13c15481bd0" />
 
+> 📸 <br><img width="832" height="744" alt="image" src="https://github.com/user-attachments/assets/1d7ee9c7-a197-4622-aad7-6b3b8e128a55" />
+
+> 📸 <br><img width="830" height="669" alt="image" src="https://github.com/user-attachments/assets/856f7e04-ebab-49ad-8cd6-d46187a578d4" />
+
+
 ## 🧠 Key Takeaways
 * **The Human Element is the Weakest Link:** Learned that even the most advanced technical firewalls and EDR solutions can be bypassed if an attacker successfully manipulates an employee through psychological exploitation.
 * **Evolving Threat Landscape (Deepfakes):** Recognized that social engineering is no longer limited to poorly written emails; attackers now leverage AI-driven deepfakes and voice cloning to impersonate executives and deceive personnel.
