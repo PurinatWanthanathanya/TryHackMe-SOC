@@ -19,7 +19,7 @@ To evaluate Security Operations Center (SOC) efficiency and alignment with busin
 ## 📊 Results & Evidence
 * Successfully evaluated simulated SOC performance data, mapped alert triage metrics to operational bottlenecks, and analyzed time-based SLA benchmarks to optimize incident response workflows.
 
-> 📸 <br><img width="789" height="637" alt="image" src="https://github.com/user-attachments/assets/a471d628-4b34-4717-b39a-6fa4f9cb4ea3" />
+> 📸 <br><img width="950" height="300" alt="image" src="https://github.com/user-attachments/assets/3329684e-a24c-4fff-b5ba-c3122cfecf66" />
 
 > 📸 Create Workbook to Handle<br><img width="823" height="694" alt="image" src="https://github.com/user-attachments/assets/37940f1f-57b9-40e3-9d9b-5cb2b3afba15" />
 
