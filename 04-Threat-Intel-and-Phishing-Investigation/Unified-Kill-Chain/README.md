@@ -19,7 +19,13 @@ To apply the Unified Kill Chain (UKC) framework to analyze sophisticated modern 
 ## 📊 Results & Evidence
 * Successfully mapped end-to-end simulated Advanced Persistent Threat (APT) attack scenarios across the 18 tactical phases of the Unified Kill Chain, aligning SOC detection capabilities to the In, Through, and Out phases.
 
-> 📸 <br><img width="1230" height="794" alt="image" src="https://github.com/user-attachments/assets/052e1285-8b8b-4ae2-acda-12e2df209ef6" />
+> 📸 Unified Kill Chain<br><img width="1230" height="794" alt="image" src="https://github.com/user-attachments/assets/052e1285-8b8b-4ae2-acda-12e2df209ef6" />
+
+> 📸 Phase In<br><img width="1201" height="844" alt="image" src="https://github.com/user-attachments/assets/0a2b48eb-30a9-40b4-b700-34a0ee439a5f" />
+
+> 📸 Phase Through<br><img width="1115" height="823" alt="image" src="https://github.com/user-attachments/assets/9e3327a4-394b-42f1-83be-3e0ab61c395e" />
+
+> 📸 Phase Out<br><img width="1197" height="771" alt="image" src="https://github.com/user-attachments/assets/3e41c744-3d38-4d28-b2bd-06b1886170ea" />
 
 ## 🧠 Key Takeaways
 * **Evolution of the Kill Chain:** Learned that traditional linear kill chains often fall short against modern Advanced Persistent Threats (APTs). The **Unified Kill Chain** bridges this gap by merging the conceptual lifecycle of Lockheed Martin with the tactical depth of **MITRE ATT&CK**.
