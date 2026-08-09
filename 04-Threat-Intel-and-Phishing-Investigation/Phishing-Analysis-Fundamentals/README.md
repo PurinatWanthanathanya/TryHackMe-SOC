@@ -21,6 +21,8 @@ To understand core email infrastructure and protocols, identify sophisticated so
 
 > 📸 <br><img width="950" height="863" alt="image" src="https://github.com/user-attachments/assets/4f62ed7d-2577-4bef-8361-751f384d60f7" />
 
+> 📸 <br><img width="974" height="895" alt="image" src="https://github.com/user-attachments/assets/18be43e8-43e3-4224-be5b-7693b56d4a38" />
+
 > 📸 defang<br><img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/93736461-3f83-4159-b44b-a098a98a9323" />
 
 ## 🧠 Key Takeaways
