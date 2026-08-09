@@ -21,6 +21,8 @@ To understand core email infrastructure and protocols, identify sophisticated so
 
 > 📸 <br><img width="950" height="863" alt="image" src="https://github.com/user-attachments/assets/4f62ed7d-2577-4bef-8361-751f384d60f7" />
 
+> 📸 defang<br><img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/93736461-3f83-4159-b44b-a098a98a9323" />
+
 ## 🧠 Key Takeaways
 * **Never Trust the Display Name:** Learned that attackers routinely spoof display names to execute Spear Phishing and Whaling attacks. True attribution requires deep inspection of the email's underlying source code and routing headers.
 * **Mastering the Protocols:** Understood that a solid grasp of SMTP, POP3, IMAP, and DNS is not just for IT administration; it is a critical prerequisite for tracing the digital footprint of a phishing campaign.
