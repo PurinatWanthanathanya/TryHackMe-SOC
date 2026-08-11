@@ -1,4 +1,4 @@
-<img width="731" height="470" alt="image" src="https://github.com/user-attachments/assets/05e1ff8f-2a0a-4dbe-b6a5-941583ca4a63" /># Lab: Virtualisation Basics
+# Lab: Virtualisation Basics
 
 **Role:** Pre-Security Student / IT Fundamentals Trainee
 
@@ -23,6 +23,8 @@ To understand the core mechanics of virtualization, differentiate between hyperv
 > 📸 <br><img width="1350" height="1080" alt="image" src="https://github.com/user-attachments/assets/34b03c08-399f-47a4-a4ff-c1786bad228e" />
 
 > 📸 <br><img width="731" height="470" alt="image" src="https://github.com/user-attachments/assets/167a73fc-e5bc-4628-ab09-5176867dad21" />
+
+> 📸 <br><img width="913" height="863" alt="image" src="https://github.com/user-attachments/assets/4a85e59a-34dd-466b-b58f-7ae2bd8ebc6a" />
 
 ## 🧠 Key Takeaways
 * **Maximizing Hardware Efficiency:** Learned that virtualization fundamentally transforms IT infrastructure by allowing a single physical server to securely host multiple isolated systems, drastically reducing hardware waste and operational costs.
