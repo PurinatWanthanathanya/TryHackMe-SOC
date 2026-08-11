@@ -26,6 +26,8 @@ To understand the core mechanics of virtualization, differentiate between hyperv
 
 > 📸 <br><img width="913" height="863" alt="image" src="https://github.com/user-attachments/assets/4a85e59a-34dd-466b-b58f-7ae2bd8ebc6a" />
 
+> 📸 <br><img width="951" height="738" alt="image" src="https://github.com/user-attachments/assets/ef22e2be-ec55-4240-900a-45599529692f" />
+
 ## 🧠 Key Takeaways
 * **Maximizing Hardware Efficiency:** Learned that virtualization fundamentally transforms IT infrastructure by allowing a single physical server to securely host multiple isolated systems, drastically reducing hardware waste and operational costs.
 * **Choosing the Right Hypervisor:** Recognized that while Type 1 hypervisors offer the performance and scalability required for enterprise data centers, Type 2 hypervisors provide the convenience and isolation necessary for an analyst's local workstation.
