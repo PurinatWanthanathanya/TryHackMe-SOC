@@ -21,7 +21,7 @@ To establish foundational programming skills in Python by developing an interact
 
 > 📸 <br><img width="813" height="716" alt="image" src="https://github.com/user-attachments/assets/ea417e3f-e129-43dd-92d0-9b4a1f9a8092" />
 
-> 📸 <br><img width="580" height="171" alt="image" src="https://github.com/user-attachments/assets/c16f792a-f35b-4d18-b083-e08f5879e5af" />
+> 📸 <br><img width="508" height="182" alt="image" src="https://github.com/user-attachments/assets/fe57b4fb-01aa-420e-a7d9-f71b67c14148" />
 
 ## 🧠 Key Takeaways
 * **Automation Foundation:** Learned that Python is a critical language for cybersecurity. Mastering fundamental logic (variables, loops, and conditions) is the necessary first step toward writing automated scripts for SOC operations and log parsing.
