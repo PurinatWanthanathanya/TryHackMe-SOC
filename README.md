@@ -4,7 +4,7 @@ This repository contains documentation, methodologies, and practical exercises c
 
 > 🇹🇭 **Thai Version / บันทึกสรุปความเข้าใจภาษาไทย:**
 > For a detailed summary and personal study notes in Thai, please feel free to check out my document here: 
-> [📝 TryHackMe SOC Level 1 Study Notes (Google Docs)](https://docs.google.com/document/d/1e2O-vKcbB_1jnMwDcwwhMq1mg_DEALKdG9scDnx14nE/edit?usp=sharing)
+> [📝 TryHackMe CyberSecurity Study Notes (Google Docs)](https://docs.google.com/document/d/1e2O-vKcbB_1jnMwDcwwhMq1mg_DEALKdG9scDnx14nE/edit?usp=sharing)
 
 ## 📂 Repository Structure
 
