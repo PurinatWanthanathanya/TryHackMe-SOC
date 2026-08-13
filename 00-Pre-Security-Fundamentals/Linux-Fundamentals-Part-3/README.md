@@ -23,7 +23,7 @@ To master advanced Linux administration tasks, including system logging inspecti
 
 > 📸 <br><img width="961" height="751" alt="image" src="https://github.com/user-attachments/assets/f7f7df21-f823-4ea5-b1ac-2d53fd60c49b" />
 
-> 📸 <br><img width="965" height="594" alt="image" src="https://github.com/user-attachments/assets/255a9226-3bee-46ec-b059-64ede0841b24" />
+> 📸 <br><img width="1012" height="591" alt="image" src="https://github.com/user-attachments/assets/61ef4f13-b852-440f-8415-361b2e5bd583" />
 
 ## 🧠 Key Takeaways
 * **Logs are the Ultimate Source of Truth:** Learned that `/var/log` is the primary repository for forensic analysis and system troubleshooting, providing crucial visibility into system events and failures.
